@@ -3,7 +3,7 @@ on:
   workflow_dispatch:
     inputs:
       versao:
-        description: Código da atualização recebido no Club
+        description: Código da atualização .github/workflows/atualizar-directcash.ymlrecebido no Club
         required: true
         default: editor-2026-09-25-r10
         type: string
